@@ -1,5 +1,5 @@
 
-# 🧠 Projeto de Carga de Dados Automatizada - SOVIS
+# 🧠 Projeto de Carga de Dados Automatizada 
 
 Este projeto realiza um processo **completo de ETL (Extração, Transformação e Carga)** a partir de um sistema web, utilizando automação com Selenium e integração com PostgreSQL para alimentar um Data Warehouse com modelo dimensional.
 
@@ -8,7 +8,7 @@ Este projeto realiza um processo **completo de ETL (Extração, Transformação 
 O pipeline automatiza a coleta de informações sobre visitas comerciais, vendas (DSV) e situação dos clientes. Ele é composto por:
 
 - **Web Scraping** com Selenium
-- **Tratamento e enriquecimento** com Pandas + Excel de apoio
+- **Tratamento e cruzamento** com Pandas + Excel de apoio
 - **Carga em banco de dados PostgreSQL** (dimensões e fato)
 - Pronto para visualização no Power BI
 
