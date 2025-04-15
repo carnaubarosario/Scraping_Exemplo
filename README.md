@@ -110,4 +110,4 @@ Esses dados poderão ser consumidos por ferramentas como Power BI para análise 
 
 Desenvolvido por **Lucca Carnaúba Peixoto Rosário**  
 Tecnologias: Python, Selenium, Pandas, SQL, PostgreSQL  
-Contato: [seu-email@exemplo.com](mailto:seu-email@exemplo.com)
+Contato: [carnaubarosario@gmail.com](mailto:carnaubarosario@gmail.com)
